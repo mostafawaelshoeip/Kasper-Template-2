@@ -1,4 +1,4 @@
-``<h1 align="center">🌟 Kaser Project 🌟</h1>
+``<h1 align="center">🌟 Kasper Project 🌟</h1>
 
 <p align="center">
   ✅ Built with <strong>HTML & CSS</strong> as part of my journey with <a href="https://elzero.org/">Elzero Web School</a>  
@@ -20,7 +20,7 @@ This project helped me sharpen my front-end development skills by focusing on:
 
 ## 💻 Live Demo
 
-🚀 [Check out the live project here!]()
+🚀 [Check out the live project here!](https://mostafawaelshoeip.github.io/Kasper-Template-2/)
 
 ---
 
