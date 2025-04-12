@@ -20,13 +20,7 @@ This project helped me sharpen my front-end development skills by focusing on:
 
 ## 💻 Live Demo
 
-🚀 [Check out the live project here!](YOUR-LIVE-LINK-HERE)
-
----
-
-## 🖼️ Preview
-
-![Kaser Project Screenshot](YOUR-SCREENSHOT-LINK-HERE)
+🚀 [Check out the live project here!]()
 
 ---
 
@@ -55,5 +49,5 @@ Proud to build this as part of my learning journey 💪
 
 ---
 
-<p align="center">Made with ❤️ by a future Front-End Developer 🚀</p>
+<p align="center">Made with ❤️ by <b>Mostafa Shoeip </b>a future Front-End Developer 🚀</p>
 ``
